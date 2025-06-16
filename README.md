@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Guest links
+
+
+Update: Link is now available and working
